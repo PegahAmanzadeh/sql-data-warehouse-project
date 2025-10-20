@@ -2,6 +2,7 @@
 --Used ETL(Extract,Transform,Load) process to populate the "Silver" schema table from the bronze schema
 --Truncate silver table
 --Inserted transformed and cleansed data from Bronze to Silver table
+--Quality checks 
 
 
 /* DATA TRANSFORMATION & CLEANSING*/
